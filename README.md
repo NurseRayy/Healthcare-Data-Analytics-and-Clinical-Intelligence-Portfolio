@@ -14,4 +14,4 @@ An end-to-end healthcare analytics project using synthetic Synthea data, SQL, an
 
 **Data Source:** Synthea synthetic healthcare dataset. Data do not represent actual patients, claims, or health system performance.
 
-**Dashboard:** [View Interactive Tableau Dashboard (https://public.tableau.com:9443/views/HealthcareUtilizationAnalysis/HealthcareUtilizationDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Dashboard:** [View Interactive Tableau Dashboard (https://public.tableau.com/views/HealthcareUtilizationAnalysis/HealthcareUtilizationDashboard?:showVizHome=no)]
